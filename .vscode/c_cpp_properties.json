@@ -3,7 +3,8 @@
         {
             "name": "Win32",
             "includePath": [
-                "${workspaceFolder}/**", "C:\\WinAVR-20100110\\avr\\include"
+                "${workspaceFolder}/**",
+                "C:\\WinAVR-20100110\\avr\\include"
             ],
             "defines": [
                 "_DEBUG",
@@ -14,6 +15,17 @@
             "cStandard": "gnu11",
             "cppStandard": "gnu++14",
             "intelliSenseMode": "windows-gcc-x86"
+        },
+        {
+            "name": "AVR",
+            "intelliSenseMode": "${default}",
+            "cStandard": "c11",
+            "cppStandard": "c++14",
+            "compilerPath": "C:\\Users\\Bhanu\\Health_monotoring_system\\M2_Health_monotoring_system\\3_implementation\\Health_monotoring_system.c",
+            "includePath": [
+                "C:\\Users\\Bhanu\\Health_monotoring_system\\M2_Health_monotoring_system\\**"
+            ],
+            "compilerArgs": []
         }
     ],
     "version": 4

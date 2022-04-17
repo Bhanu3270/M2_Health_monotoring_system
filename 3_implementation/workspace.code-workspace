@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "Health_monotoring_system",
+			"path": "..\\..\\..\\Documents\\PlatformIO\\Projects\\Health_monotoring_system"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
